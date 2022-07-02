@@ -1,0 +1,10 @@
+{
+    "name": "basic-bot",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Maoyue <maoyue@maoyue.me>",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^12.5.3"
+    }
+}
